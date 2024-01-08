@@ -91,6 +91,52 @@ Qn.9
 ![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/d751b742-7c42-42ed-8359-208c66b553f1)
 
 Qn.10
+( a.) Go to https://blog.bi0s.in/  and download the logo.png image using wget
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/0ff0f855-f69f-4986-8100-ce91e355095d)
+
+(b.) Do the same with python script (Hint : request library)
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/73167b16-3069-49a9-967e-014bfa781967)
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/23d75a94-4b7c-4660-a588-89ca1cf0797f)
+
+(c.) Also, display the metadata of the png.
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/965ae6d7-614a-4b9c-9da3-2a8c24fd7e25)
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/246836b1-78ea-4cc1-bae6-df035e8906e0)
+
+Qn.11
+( a.) Use traceroute on google.com and find list of the IP addresses and hostnames between you and  google.com
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/64d34255-d5f4-4d52-b445-8cbd72485235)
+
+( b.) Find  Subdomains,ip addresses of google.com using nslookup command
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/ce459a23-c619-418d-bf7a-6ff5a3d2b413)
+
+Qn.12
+Start a web server on port 8080 with python command
+(In any directory and access the files in web browser)
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/babf96fb-c6cc-4ac5-81fd-84caa4b44c7b)
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/b23db2c7-6eaa-456b-8c31-effd0ac8a4b6)
+
+Qn.13
+( a.) Learn about nmap and use that scanner to scan your own machine
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/83b6292a-48d7-4453-9f5e-5677054a0603)
+
+( b.) Go to https://tryhackme.com/room/furthernmap and get ip address and Scan the ip address with (-sS,-sV,-A) in your terminal include all ports (Hint : start machine )
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/44a1cadb-bddc-431d-bdf3-debf027b187a)
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/2063d5e6-aec5-4c40-be3e-6dbf14c1426c)
+
+Qn.14
+( a.) Create a chat application using nc on your local machine with one terminal as server and other as the client
+( b.) Transfer a file from server to client (save that file with another name) and display the file.
+![image](https://github.com/KeerthanaG2/biOs-Bash-challenges/assets/139220811/6f6e41f0-7ec8-4443-8288-95c000ff2070)
+
+
+
+
+
+
+
+
+
+
 
 
 
